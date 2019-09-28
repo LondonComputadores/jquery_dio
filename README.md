@@ -1,1 +1,1 @@
-# juery_dio
+# jquery_dio
